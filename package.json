@@ -1,0 +1,15 @@
+{
+  "name": "vuepressBlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Soralita/vuepressBlog",
+  "author": "Soralita <47625358+Soralita@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  } 
+}
